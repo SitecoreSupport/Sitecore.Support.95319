@@ -1,5 +1,5 @@
 # Sitecore.Support.95319
-Improve performance of the My items dialog box
+Improve performance of the `My items` dialog box when using `Lucene` or `Solr`.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.95319/blob/master/LICENSE).  
